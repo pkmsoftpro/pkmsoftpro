@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 # My Github Courses - Bestseller and Top-rated
 * [Hibernate for Beginners (Includes Projects)](https://github.com/pkmsoftpro/HibernatePractice) // Hibernate 3 tutorial
 * [[NEW] JPA tutorial](https://github.com/pkmsoftpro/JpaPractice)
-https://github.com/pkmsoftpro/Oracle-19c/blob/main/README.md
 
 # Angular with Spring Boot tutorial
 * <a href="https://github.com/pkmsoftpro/PassengerApp_Angular_SpringBoot_MySQL" target="_blank">Spring Boot Restful Web Services Tutorial | Full Course ✅</a>
