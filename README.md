@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 * [Hibernate for Beginners (Includes Projects)](https://github.com/pkmsoftpro/HibernatePractice) // Hibernate 3 tutorial
 * [[NEW] JPA tutorial](https://github.com/pkmsoftpro/JpaPractice)
 https://github.com/pkmsoftpro/Oracle-19c/blob/main/README.md
-* <a href="https://github.com/pkmsoftpro/Oracle-19c/blob/main/README.md" target="_blank">Building Micr
+* <a href="https://github.com/pkmsoftpro/Oracle-19c/blob/main/README.md" target="[_blank"](https://github.com/pkmsoftpro/Oracle-19c/blob/main/README.md)>Building Micr
 
 # Angular with Spring Boot tutorial
 * <a href="https://github.com/pkmsoftpro/PassengerApp_Angular_SpringBoot_MySQL" target="_blank">Spring Boot Restful Web Services Tutorial | Full Course ✅</a>
@@ -41,4 +41,4 @@ https://github.com/pkmsoftpro/Oracle-19c/blob/main/README.md
 * <a href="https://github.com/pkmsoftpro/OpenRefine" target="_blank">OpenRefine Reconcilliation Tool 🔥</a>
 * <a href="https://github.com/pkmsoftpro/SpringbootMultithreading/tree/common-service" target="_blank">Export the Eclipse Project in Github 🔥</a>
 * <a href="https://github.com/pkmsoftpro/JavaInterviewQuestionsLinks/blob/main/README.md" target="_blank">Kafka pages 🔥</a>
-* <a href="" target="_blank">Oracle 19c Docker</a>
+* <a href="https://github.com/pkmsoftpro/Oracle-19c/blob/main/README.md" target="https://github.com/pkmsoftpro/Oracle-19c/blob/main/README.md">Oracle 19c Docker</a>
